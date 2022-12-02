@@ -2,7 +2,7 @@
 
 **Movies** is a movies app using the [The Movie Database API](https://developers.themoviedb.org/3).
 
-Time spent: **48** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -29,6 +29,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- Using Redux and Redux-saga to manage states and asynchronously fetch data
 
 ## Video Walkthrough
 
