@@ -1,0 +1,30 @@
+.left-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.left-bar__logo {
+   text-align: center;
+}
+
+.left-bar__menu {
+    height: 60%;
+}
+
+.left-bar__footer {
+
+}
+
+
+.left-menu {
+    margin-left: 15px;
+}
+
+.menu {
+}
+
+.menu-item {
+    padding: 15px 0;
+}
